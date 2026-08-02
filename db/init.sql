@@ -1,0 +1,63 @@
+SET NAMES utf8mb4;
+
+CREATE TABLE orthographies (
+    name VARCHAR(50),
+    grapheme VARCHAR(5)
+    );
+
+INSERT INTO orthographies VALUES ('German', 'a');
+INSERT INTO orthographies VALUES ('German', 'b');
+INSERT INTO orthographies VALUES ('German', 'c');
+INSERT INTO orthographies VALUES ('German', 'd');
+INSERT INTO orthographies VALUES ('German', 'e');
+INSERT INTO orthographies VALUES ('German', 'f');
+INSERT INTO orthographies VALUES ('German', 'g');
+INSERT INTO orthographies VALUES ('German', 'h');
+INSERT INTO orthographies VALUES ('German', 'i');
+INSERT INTO orthographies VALUES ('German', 'j');
+INSERT INTO orthographies VALUES ('German', 'k');
+INSERT INTO orthographies VALUES ('German', 'l');
+INSERT INTO orthographies VALUES ('German', 'm');
+INSERT INTO orthographies VALUES ('German', 'n');
+INSERT INTO orthographies VALUES ('German', 'o');
+INSERT INTO orthographies VALUES ('German', 'p');
+INSERT INTO orthographies VALUES ('German', 'q');
+INSERT INTO orthographies VALUES ('German', 'r');
+INSERT INTO orthographies VALUES ('German', 's');
+INSERT INTO orthographies VALUES ('German', 't');
+INSERT INTO orthographies VALUES ('German', 'u');
+INSERT INTO orthographies VALUES ('German', 'v');
+INSERT INTO orthographies VALUES ('German', 'w');
+INSERT INTO orthographies VALUES ('German', 'x');
+INSERT INTO orthographies VALUES ('German', 'y');
+INSERT INTO orthographies VALUES ('German', 'z');
+INSERT INTO orthographies VALUES ('German', 'ä');
+INSERT INTO orthographies VALUES ('German', 'ö');
+INSERT INTO orthographies VALUES ('German', 'ü');
+INSERT INTO orthographies VALUES ('German', 'ß');
+INSERT INTO orthographies VALUES ('English', 'a');
+INSERT INTO orthographies VALUES ('English', 'b');
+INSERT INTO orthographies VALUES ('English', 'c');
+INSERT INTO orthographies VALUES ('English', 'd');
+INSERT INTO orthographies VALUES ('English', 'e');
+INSERT INTO orthographies VALUES ('English', 'f');
+INSERT INTO orthographies VALUES ('English', 'g');
+INSERT INTO orthographies VALUES ('English', 'h');
+INSERT INTO orthographies VALUES ('English', 'i');
+INSERT INTO orthographies VALUES ('English', 'j');
+INSERT INTO orthographies VALUES ('English', 'k');
+INSERT INTO orthographies VALUES ('English', 'l');
+INSERT INTO orthographies VALUES ('English', 'm');
+INSERT INTO orthographies VALUES ('English', 'n');
+INSERT INTO orthographies VALUES ('English', 'o');
+INSERT INTO orthographies VALUES ('English', 'p');
+INSERT INTO orthographies VALUES ('English', 'q');
+INSERT INTO orthographies VALUES ('English', 'r');
+INSERT INTO orthographies VALUES ('English', 's');
+INSERT INTO orthographies VALUES ('English', 't');
+INSERT INTO orthographies VALUES ('English', 'u');
+INSERT INTO orthographies VALUES ('English', 'v');
+INSERT INTO orthographies VALUES ('English', 'w');
+INSERT INTO orthographies VALUES ('English', 'x');
+INSERT INTO orthographies VALUES ('English', 'y');
+INSERT INTO orthographies VALUES ('English', 'z');
