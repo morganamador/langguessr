@@ -1,6 +1,8 @@
 # langguessr
 a tool to identify your geographic location based on the text found on signs around you
 
+[Watch the 8-minute walkthrough](https://www.loom.com/share/06f76f69572a4bbf9fe5d36c8d8f69ca)
+
 ________________________________________________________________________________________________________
 
 requires Python 3.12 and Docker. 
